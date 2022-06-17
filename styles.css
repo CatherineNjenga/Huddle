@@ -233,26 +233,11 @@ footer img {
         "three four"
         "five six";
 }
-.contacts:nth-child(1) {
-    grid-area: one;
-}
-.contacts:nth-child(2) {
-    grid-area: two;
-}
-.contacts:nth-child(1) {
-    grid-area: three;
-}
-.contacts:nth-child(1) {
-    grid-area: four;
-}
-.contacts:nth-child(1) {
-    grid-area: five;
-}
-.contacts:nth-child(1) {
-    grid-area: six;
-}
 .company-contacts img {
     width: 15px;
+}
+ion-icon {
+    margin-left: 10px;
 }
 @media (max-width: 375px) {
     html {
