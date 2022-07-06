@@ -262,6 +262,12 @@ ion-icon {
         flex-direction: column-reverse;
         padding-bottom: 2em;
     }
+    .second-info,
+    .third-info,
+    .fourth-info {
+        padding: 3em 2em 2em 2em;
+        text-align: center;
+    }
     .third {
         display: flex;
         flex-direction: column;
